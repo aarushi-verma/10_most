@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Places &#8211; 10_most</title>
-	<atom:link href="/https://aarushi-verma.github.io/10_most/category/places/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://aarushi-verma.github.io/10_most</link>
+	<atom:link href="https://aarushi-verma.github.io/10_most/category/places/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aarushi-verma.github.io/10_most</link>
 	<description>Read For Fun!</description>
 	<lastBuildDate>Mon, 20 Dec 2021 11:13:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 	<item>
 		<title>10 MOST Beautiful Hill Stations in India</title>
-		<link>/https://aarushi-verma.github.io/10_most/10-most-beautiful-hill-stations-in-india/</link>
+		<link>https://aarushi-verma.github.io/10_most/10-most-beautiful-hill-stations-in-india/</link>
 		
 		<dc:creator><![CDATA[10_most]]></dc:creator>
 		<pubDate>Mon, 20 Dec 2021 10:41:22 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<category><![CDATA[most]]></category>
 		<category><![CDATA[places]]></category>
 		<category><![CDATA[station]]></category>
-		<guid isPermaLink="false">/https://aarushi-verma.github.io/10_most/?p=861</guid>
+		<guid isPermaLink="false">https://aarushi-verma.github.io/10_most/?p=861</guid>
 
 					<description><![CDATA[10 MOST beautiful hill stations in India]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="861" class="elementor elementor-861" data-elementor-settings="[]">
@@ -51,7 +51,7 @@
 				<div class="elementor-element elementor-element-666a76c elementor-widget elementor-widget-image" data-id="666a76c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.0 - 12-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="576" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/29094011538_63a85dd211_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="1024" height="576" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/29094011538_63a85dd211_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-6c7789d elementor-widget elementor-widget-text-editor" data-id="6c7789d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -64,7 +64,7 @@
 				</div>
 				<div class="elementor-element elementor-element-270cb6b elementor-widget elementor-widget-image" data-id="270cb6b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="768" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/2117340693_8ffaa82cbf_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="768" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/2117340693_8ffaa82cbf_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-0703969 elementor-widget elementor-widget-text-editor" data-id="0703969" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -76,7 +76,7 @@
 				</div>
 				<div class="elementor-element elementor-element-881551f elementor-widget elementor-widget-image" data-id="881551f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="800" height="600" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/4154761973_e562bb9411_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="800" height="600" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/4154761973_e562bb9411_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-eb33e1d elementor-widget elementor-widget-text-editor" data-id="eb33e1d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -88,7 +88,7 @@
 				</div>
 				<div class="elementor-element elementor-element-c486284 elementor-widget elementor-widget-image" data-id="c486284" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="768" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/4934114335_a64a6d3474_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="768" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/4934114335_a64a6d3474_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-de37a47 elementor-widget elementor-widget-text-editor" data-id="de37a47" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -100,7 +100,7 @@
 				</div>
 				<div class="elementor-element elementor-element-49b450f elementor-widget elementor-widget-image" data-id="49b450f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="641" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/8691258371_990f9e876b_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="641" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/8691258371_990f9e876b_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-74f8974 elementor-widget elementor-widget-text-editor" data-id="74f8974" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -112,7 +112,7 @@
 				</div>
 				<div class="elementor-element elementor-element-b55134e elementor-widget elementor-widget-image" data-id="b55134e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="602" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/33780489381_be75599568_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="602" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/33780489381_be75599568_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-db37f9d elementor-widget elementor-widget-text-editor" data-id="db37f9d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -124,7 +124,7 @@
 				</div>
 				<div class="elementor-element elementor-element-bef7e0d elementor-widget elementor-widget-image" data-id="bef7e0d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="719" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/9272683721_fb4ae9f8a7_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="719" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/9272683721_fb4ae9f8a7_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-a52662c elementor-widget elementor-widget-text-editor" data-id="a52662c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -136,7 +136,7 @@
 				</div>
 				<div class="elementor-element elementor-element-22c659a elementor-widget elementor-widget-image" data-id="22c659a" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="576" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/IMG_20180517_142435.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="576" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/IMG_20180517_142435.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-58a405c elementor-widget elementor-widget-heading" data-id="58a405c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -144,7 +144,7 @@
 				</div>
 				<div class="elementor-element elementor-element-5f58ce2 elementor-widget elementor-widget-image" data-id="5f58ce2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="683" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/22216824308_2a1d51d5e3_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="1024" height="683" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/22216824308_2a1d51d5e3_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-b233665 elementor-widget elementor-widget-text-editor" data-id="b233665" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -156,7 +156,7 @@
 				</div>
 				<div class="elementor-element elementor-element-cd0f3e0 elementor-widget elementor-widget-image" data-id="cd0f3e0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="960" height="539" src="/https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/28712062046_156cb38f75_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
+															<img width="960" height="539" src="https://aarushi-verma.github.io/10_most/wp-content/uploads/2021/12/28712062046_156cb38f75_o.jpg" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-c3edd0a elementor-widget elementor-widget-text-editor" data-id="c3edd0a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -175,8 +175,8 @@
 			</item>
 		<item>
 		<title>10 MOST Beautiful Places In Jharkhand</title>
-		<link>/https://aarushi-verma.github.io/10_most/10-most-beautiful-places-in-jharkhand/</link>
-					<comments>/https://aarushi-verma.github.io/10_most/10-most-beautiful-places-in-jharkhand/#comments</comments>
+		<link>https://aarushi-verma.github.io/10_most/10-most-beautiful-places-in-jharkhand/</link>
+					<comments>https://aarushi-verma.github.io/10_most/10-most-beautiful-places-in-jharkhand/#comments</comments>
 		
 		<dc:creator><![CDATA[10_most]]></dc:creator>
 		<pubDate>Wed, 15 Dec 2021 17:39:47 +0000</pubDate>
@@ -185,7 +185,7 @@
 		<category><![CDATA[beautiful]]></category>
 		<category><![CDATA[most]]></category>
 		<category><![CDATA[places]]></category>
-		<guid isPermaLink="false">/https://aarushi-verma.github.io/10_most/?p=1</guid>
+		<guid isPermaLink="false">https://aarushi-verma.github.io/10_most/?p=1</guid>
 
 					<description><![CDATA[Jharkhand - Known as the Land of Forests]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
@@ -316,7 +316,7 @@
 					</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/https://aarushi-verma.github.io/10_most/10-most-beautiful-places-in-jharkhand/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aarushi-verma.github.io/10_most/10-most-beautiful-places-in-jharkhand/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
